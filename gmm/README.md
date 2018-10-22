@@ -26,7 +26,7 @@ Recommend high rated movies to the user based on their leisure schedule.
   
  | K-means Cluster             				    |  GMM Cluster		|
 |:---------------------------------------------------------:|:-------------------------:|
-|![alt text](./Elbow_method.png) 			    |  ![alt text](./AIC:BIC.png)|
+| ![alt text](./Elbow_method.png) 			    |  ![alt text](./AIC:BIC.png)|
 
  
 		Fig 3: elbow method					Fig 4: BIC method
