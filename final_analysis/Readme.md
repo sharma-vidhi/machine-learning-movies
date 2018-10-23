@@ -23,3 +23,4 @@ Predictive engine will recommend movies to users based on their likeness
  * Support Vector Machine
  * Naive Bayes
  * Random Forrest
+ ```
