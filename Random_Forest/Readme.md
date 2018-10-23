@@ -3,7 +3,7 @@ IMDB Movie Dataset. This dataset is generated from IMDb data. The dataset is rel
 <br><br>The link of the dataset is here - (https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset).
 
 ## Objective
-….
+What role does the attributes of a movie such as genres and duration affect the user ratings 
 ### Prepare the data for algorithm
 1.	Load the dataset in a pandas dataframe and analyze the data.
 2.	#### Data Cleaning: 
@@ -49,7 +49,9 @@ Plot the tree for visualization.
 #### Naive Bayes Accuracy Score: .604 or 60%
 
 ## Conclusion
+Principal Component Analysis does not always improve the accuracy of the model but it is advisable as it improves the performance of the model
 ## New Insights
+Random forest gives good accuracy which is very high, suspecting that the model might be overfitting caused by over growing trees. Feature engineering is required for the training dataset.
 
 
 
