@@ -5,4 +5,4 @@ CMPE 257 Course Work<Br>
 * Data augementation: OMDB and TMDB API<br>
   
   
-  Final Predictive Model is explained https://github.com/cpati/machine-learning-movies/tree/master/final_analysis
+ **Final Predictive Model is explained https://github.com/cpati/machine-learning-movies/tree/master/final_analysis**
