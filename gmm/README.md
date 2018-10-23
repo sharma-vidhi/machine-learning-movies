@@ -4,7 +4,7 @@ IMDB Movie Dataset. This dataset is generated from IMDb data. The dataset is rel
 <br><br>The link of the dataset is here - (https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset).
 
 ## Objective<br>
-Recommend high rated movies to the user based on their leisure schedule.
+Categorize movies based on the movie duration and identify how movie length can affect the ratings.
 
 ## Algorithm<br>
 ### Gaussian Mixure Model Clustering<br>
