@@ -1,6 +1,6 @@
 # Movie Recommendation Engine
 
-Predictive engine for recommending movies to users based on their likeness.
+Predictive engine for recommending movies to users based on their profile and likeness.
 
 ## Data used
 
